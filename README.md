@@ -38,4 +38,4 @@ Example Code #2
 
 
 ## <u>Election Audit Summary</u>
-In summary, this script can be used to audit any statewide election such as gubernatorial, senate, or congressman elections where we need to analyze votes by county and candidate.  The code could also be modified to work for local elections within a specific county.
+In summary, this script can be used to audit any statewide election such as gubernatorial, senate, or congress elections where we need to analyze votes by county and candidate.  The code could also be modified to work for local elections, school elections, etc.
