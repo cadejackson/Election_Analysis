@@ -2,7 +2,7 @@
 
 ## <u>Overview of Election Audit</u>
 
-The purpose of the election audit was to automate the audit process of voting data with Python that allows for votes to be quickly counted and various calculations performed on the data.
+The purpose of the election audit was to automate the audit process of voting data with Python that allows for votes to be quickly counted and various calculations performed on the data.  Election results were read from a CSV file and various for loops were use to process the data into results that could be interpreted. 
 
 ## <u>Election Audit Results</u>
 - There were 369,711 total votes casts between the three counties.
