@@ -1,10 +1,10 @@
-# <u>Election Analysis<u>
+# <u>Election Analysis</u>
 
-## <u>Overview of Election Audit<u>
+## <u>Overview of Election Audit</u>
 
 The purpose of the election audit was to automate the audit process of voting data with Python that allows for votes to be quickly counted and various calculations performed on the data.
 
-## Election Audit Results
+## <u>Election Audit Results</u>
 - There were 369,711 total votes casts between the three counties.
 - Each candidate had the following vote counts:
   - Charles Casper Stockham: 23.0% (85,213)
@@ -17,9 +17,14 @@ The purpose of the election audit was to automate the audit process of voting da
   - Arapahoe 6.7% (24,801)
 - Denver county had the highest voter turnout by far.
 
+<u>Examples of Code and Outputs</u>
 
-![Election Results FIle Snapshot](https://github.com/cadejackson/Election_Analysis/blob/main/Resources/Election%20Results%20TXT%20Snapshot.png) ![Election Results Terminal Output Snapshot](https://github.com/cadejackson/Election_Analysis/blob/main/Resources/Terminal%20Outptut%20Spanshot.png)
+![Election Results File Snapshot](https://github.com/cadejackson/Election_Analysis/blob/main/Resources/Election%20Results%20TXT%20Snapshot.png) 
+
+![Election Results Terminal Output Snapshot](https://github.com/cadejackson/Election_Analysis/blob/main/Resources/Terminal%20Outptut%20Spanshot.png)
 
 
 
-## Election Audit Summary
+
+## <u>Election Audit Summary</u>
+In summary, this script can be used to audit any statewide election such as gubernatorial, senate, or congressman elections where we need to analyze votes by county and candidate.  The code could also be modified to work for local elections within a specific county.
