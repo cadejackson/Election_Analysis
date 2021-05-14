@@ -19,10 +19,17 @@ The purpose of the election audit was to automate the audit process of voting da
 
 <u>Examples of Code and Outputs</u>
 
+Election Results Text File
 ![Election Results File Snapshot](https://github.com/cadejackson/Election_Analysis/blob/main/Resources/Election%20Results%20TXT%20Snapshot.png) 
 
+Election Results Terminal Output
 ![Election Results Terminal Output Snapshot](https://github.com/cadejackson/Election_Analysis/blob/main/Resources/Terminal%20Outptut%20Spanshot.png)
 
+Example Code #1
+![Example Code 1](https://github.com/cadejackson/Election_Analysis/blob/main/Resources/Example%20Code%201.png)
+
+Example Code #2
+![Example Code 2](https://github.com/cadejackson/Election_Analysis/blob/main/Resources/Example%20Code%202.png)
 
 
 
